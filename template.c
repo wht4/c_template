@@ -8,9 +8,8 @@
  *
  *  @author     author
  *
- *  @version    <ul>
- *                  <li> V1.0; May 2015; author; initial release
- *              </ul>
+ *  @remark     Last modifications
+ *                 \li V1.0, May 2014, wht4, initial release
  *
  ******************************************************************************/
 /*
