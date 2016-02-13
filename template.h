@@ -8,7 +8,7 @@
  *              <p>
  *              Detailed description of the module.
  *
- *  \author     author
+ *  \author     wht4
  *
  ******************************************************************************/
 /*

@@ -6,7 +6,7 @@
  *              <p>
  *              Detailed description of the module.
  *
- *  @author     author
+ *  @author     wht4
  *
  *  @remark     Last modifications
  *                 \li V1.0, May 2014, wht4, initial release
